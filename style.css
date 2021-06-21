@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+}
+
+
+
+h1 {
+    text-shadow: 2px 1px
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
